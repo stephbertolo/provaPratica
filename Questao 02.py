@@ -30,3 +30,4 @@ else:
     print("Opção inválida!")
     escolhaJogador = int(input("Escolha 1 para começar e 2 para encerrar: "))
 
+# Não consegui fazer :(

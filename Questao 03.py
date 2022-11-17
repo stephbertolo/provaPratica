@@ -12,3 +12,5 @@ print(criarMatriz(4, 4))
 
 for linha in matriz:
     valorInteiro = int(input("Digite um valor inteiro: "))
+
+# Não consegui fazer :(
